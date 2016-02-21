@@ -1072,6 +1072,7 @@ cpdefine("inline:com-chilipeppr-widget-xyz", ["chilipeppr_ready", "jquerycookie"
 
         },
         */
+        
         toggleInMm: function () {
             var gCode;
 
